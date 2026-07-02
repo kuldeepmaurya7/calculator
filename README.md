@@ -23,7 +23,7 @@ A simple and responsive calculator built using **HTML, CSS, and JavaScript**.
 calculator/
 │── index.html
 │── style.css
-│── script.js
+│── index.js
 ```
 
 ## 📸 Screenshot
