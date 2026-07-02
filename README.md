@@ -11,6 +11,10 @@ A simple and responsive calculator built using **HTML, CSS, and JavaScript**.
 - 🧹 Clear Button
 - 📱 Responsive Design
 
+## 🌐 Live Demo
+
+🔗 https://kuldeepmaurya7.github.io/calculator/
+
 ## 🛠️ Technologies Used
 
 - HTML5
